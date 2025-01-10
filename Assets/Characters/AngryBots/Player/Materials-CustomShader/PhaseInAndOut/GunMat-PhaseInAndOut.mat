@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3392377044173366122
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GunMat-PhaseInAndOut
+  m_Shader: {fileID: 4800000, guid: 298113905a19f48939146afcb6c78969, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_30A46D34:
+        m_Texture: {fileID: 2800000, guid: a2585b52309084b379d22ad7c6352e29, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_467327B6:
+        m_Texture: {fileID: 2800000, guid: f626d158585294843b1c4fe5664a7783, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_4F7CF70B:
+        m_Texture: {fileID: 2800000, guid: 1db47dc1499b7418987fb2b7a3ffad84, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_5A9CA632:
+        m_Texture: {fileID: 2800000, guid: 1db47dc1499b7418987fb2b7a3ffad84, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_5CB02280:
+        m_Texture: {fileID: 2800000, guid: dff115c36813d4df68554b3f8fee91eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_7A994A52:
+        m_Texture: {fileID: 2800000, guid: f626d158585294843b1c4fe5664a7783, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_87805E4F:
+        m_Texture: {fileID: 2800000, guid: dff115c36813d4df68554b3f8fee91eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_CB1F781C:
+        m_Texture: {fileID: 2800000, guid: a2585b52309084b379d22ad7c6352e29, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_A235A670: 0.2
+    - Vector1_D7BB210A: 0.2
+    - Vector1_F753BD1D: 0.02
+    - Vector1_F9BFF547: 0.02
+    m_Colors:
+    - Color_85C45043: {r: 1, g: 0, b: 0, a: 1}
+    - Color_C3BC14AD: {r: 1, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
